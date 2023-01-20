@@ -6,7 +6,7 @@ https://drive.google.com/file/d/1hTBxegxFouS22y1U1XFTdgvasPocdg6x/view?usp=shari
 This program is divided into two levels. The user of this program is given three to four substance options before having to select one. Following the user's selection of an element, a dialogue would appear with a narrative explaining what would happen; you would either live or die. You will survive if you make the right choice of substance. Additionally, it has a feature that prompts the user to restart the level if they want to try again after dying. The system will congratulate you for finishing two levels and for producing a new, profound substance  which you will name, when you pass both of them. 
 
 # Why does it exist / Who is it for?
-Making this helped me gain experience with and proficiency in the Python programming language. Given that I currently lack a lot of Python expertise, it is only supposed to be a beginning of what I might produce in the future. This could be something entertaining for my friends (Fien) to try out. It's also for those who enjoy playing text-based games and chemistry! 
+Making this helped me gain experience with and proficiency in the Python programming language. Given that I currently lack a lot of Python expertise, it is only supposed to be a beginning of what I might produce in the future. This could be something entertaining for my friends to try out. It's also for those who enjoy playing text-based games and chemistry! 
 
 # Learned to do something new:
 My friend Saif taught me how to use "time.sleep()." Due to the unexpected consequences that will take place if you choose the incorrect substance, it greatly assisted in making the game more suspenseful. I frequently used "time.sleep()"; if you check here...
