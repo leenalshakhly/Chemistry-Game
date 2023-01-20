@@ -11,12 +11,7 @@ Making this helped me gain experience with and proficiency in the Python progra
 # Learned to do something new:
 My friend Saif taught me how to use "time.sleep()." Due to the unexpected consequences that will take place if you choose the incorrect substance, it greatly assisted in making the game more intriguing. I frequently used "time.sleep()"; if you check here...
 
-def stagetwo():
-  while True:
-    #introduction to second stage
-    print("Stage 2")
-    print("Welcome " +name+ " to the second level of this academy!")
-    time.sleep(1)
+<img width="564" alt="Screen Shot 2023-01-20 at 6 40 19 PM" src="https://user-images.githubusercontent.com/112869836/213741727-e4e4809e-9dc1-42d2-b9b1-ae03d8a2c127.png">
 
 I used it because, as I indicated previously, it would result in unexpected occurrences if you choose the wrong substance, which would heighten user expectation and make the game more intriguing. As you can see from the sample up top, I tried to make the user more anticipatory and created a welcoming greeting for them to begin the second level.
 
